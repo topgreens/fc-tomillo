@@ -220,11 +220,11 @@ Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQu
             </h3>
           <blockquote>
             <p>Our productivity &amp; sales are up! Customers are happy &amp; we couldn't be happier with this product!</p>
-            <img src="img/misc/charles-quote.png" alt="Charles Spencer Chaplin">
+            <img src="img/misc/seo.png" alt="Jeffery Polk">
             <small>
-                <strong>Charles Chaplin</strong>
+                <strong>Jeffery Polk</strong>
                 <br>
-                British comic actor
+                SEO analysis
               </small>
           </blockquote>
         </div>

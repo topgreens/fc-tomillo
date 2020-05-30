@@ -1455,7 +1455,7 @@ blockquote:after {
   clear: both;
 }
 blockquote p {
-  padding: 0 1em 1em 160px;
+  padding: 0 1em 1em 50px;
   text-align: center;
   font-style: italic;
   font-family: Georgia, "Times New Roman", Times, serif;
@@ -1466,11 +1466,12 @@ blockquote img {
   position: absolute;
   bottom: 0;
   left: 50px;
-  max-width: 120px;
+  margin-bottom: 60px;
+  max-width: 100px;
 }
 blockquote small {
   display: block;
-  padding: 10px;
+  // padding: 10px;
   padding-left: 160px;
   background: #6b7175;
   color: #d0d3d4;
@@ -1658,6 +1659,7 @@ a.btn-hh-trigger.target-open:after {
 /* Contact Section */
 #contact address {
   color: #999;
+  margin-left: 20px;
 }
 
 #contact .form #sendmessage {
@@ -1707,7 +1709,7 @@ a.btn-hh-trigger.target-open:after {
 }
 
 #contact .form button[type="submit"]:hover {
-  background: #555;
+  background: #177a0b;
 }
 
 .sidebar {
